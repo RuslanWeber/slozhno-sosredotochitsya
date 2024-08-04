@@ -10,3 +10,12 @@
     чем стили в медиазапросе предпочтений пользователя
   */
 }
+/* @media (prefers-color-scheme: dark) {
+  .page {
+    background-image: url(../images/cover-image-dark.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed; 
+  }
+} */
