@@ -265,7 +265,7 @@
   align-items: center;
   justify-content: center;
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
-  height: 768px;
+  height: 100vh;
 }
 
 .title__shadow-footer {
@@ -314,10 +314,6 @@
   .section:nth-child(3) {
     grid-template-columns: 236px 1fr;
   }
-}
-
-.footer {
-  height: 100vh;
 }
 
 @media (min-width: 375px) and (max-width: 767px) {
@@ -389,9 +385,5 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
-  }
-
-  .footer {
-    height: 667px;
   }
 }

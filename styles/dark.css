@@ -18,7 +18,7 @@
   --font-text: "IBM Plex Mono", Arial, Helvetica, sans-serif;
   --text-color: #f1b2ce;
   --link-shadow: #ff0070;
-  --desc-head-color:#000028;
+  --desc-head-color: #000028;
   --font-size: 18px;
   --size-title-desk: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   --size-title-mob: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
