@@ -289,7 +289,7 @@
 }
 
 .shadow_footer {
-  text-shadow: 2px 2px var(--decor-color);
+  text-shadow: 2px 2px var(--accent-color);
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
