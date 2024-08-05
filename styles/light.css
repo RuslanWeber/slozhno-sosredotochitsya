@@ -25,10 +25,6 @@
   --size-title-mob: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 }
 
-.page.theme_light .rec {
-  display: none;
-}
-
 @media (prefers-color-scheme: light) {
   :root {
     --bg-image: url(../images/cover-image-light.png);
@@ -42,11 +38,8 @@
     --font-text: "IBM Plex Mono", Arial, Helvetica, sans-serif;
     --text-color: rgba(53, 52, 48, 1);
     --font-size: 18px;
+    --rec-display: none;
     --size-title-desk: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
     --size-title-mob: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
-  }
-
-  page.theme_light .rec {
-    display: none;
   }
 }

@@ -51,7 +51,7 @@
   position: absolute;
   top: 20px;
   right: 27px;
-  display: flex;
+  display: var(--rec-display);
   color: var(--accent-color);
 }
 
