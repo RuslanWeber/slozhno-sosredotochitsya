@@ -343,7 +343,6 @@
 
 @media (max-width: 767px) {
   .header {
-    min-height: 668px;
     padding: 10px;
   }
 
