@@ -19,6 +19,7 @@
   --text-color: #f1b2ce;
   --link-shadow: #ff0070;
   --desc-head-color: #000028;
+  --decor-shadow: rgba(255, 0, 112, 1);
   --font-size: 18px;
   --rec-display: flex;
   --size-title-desk: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
